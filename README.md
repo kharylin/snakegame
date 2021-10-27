@@ -1,0 +1,1 @@
+# **Projeto Snake Game - Jogo da cobrinha** 🐍## Descrição### O objetivo desse código foi criar o famoso jogo da cobrinha do zero.#### Em sua construção foram usados HTML5,  CSS3 e principalmente o JavaScript.
